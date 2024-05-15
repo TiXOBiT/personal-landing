@@ -1,4 +1,4 @@
-a fully responsive personal landing website
+a Fully Responsive Landing Website
 
 Light Mode Desktop View :
 ![Screenshot 2024-05-15 183829](https://github.com/TiXOBiT/personal-landing/assets/86445862/5e9929d4-ec86-4453-b70b-37a42ae8a8a8)
